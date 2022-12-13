@@ -14,7 +14,7 @@ import { useNavigate } from "react-router-dom";
 
 const students: string[] = ["Frank", "David", "Bill", "Amy"];
 const smokeStudents: string[] = ["Emma", "Fred"];
-const fakeToken = "7e6b6d1d844ca4fffe9ccdc7c2922514";
+const fakeToken = "1234567890";
 
 const UserDebug: FC = () => {
   const nav = useNavigate();
